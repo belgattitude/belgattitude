@@ -1,9 +1,9 @@
 ## Hi there 👋🏼
 
-My name is Sébastien. Strongly typed by nature, I've been coding for a long time. I really enjoy to exchange and discover great things about software programming. I believe in the win-win and wish a peace-loving world cause it matters most to me. 
+My name is Sébastien. Strongly typed by nature, I've been coding for a long time. I really enjoy to exchange and discover great things about software programming. I believe in the win-win, wish a peace-loving world and love opensource.
 
-I'm from Belgium, living in Brussels. Speak french, english and something that sounds spanish.
+I'm from Belgium, living in Brussels. Speak French, English and something that sounds Spanish at times.
 
 ### Sponsors :heart:
 
-If you are using my opensource libraries or guides, I'd really appreciate if you would consider [sponsoring me](https://github.com/sponsors/belgattitude). That gives me a tasty morning boost.
+If you are enjoying some of my OSS guides or libs for your company, I'd really appreciate a [sponsorship](https://github.com/sponsors/belgattitude), a [coffee](https://ko-fi.com/belgattitude) or a dropped star. That gives me a tasty morning boost and help me to make some of my ideas come true :heart: :pray:
