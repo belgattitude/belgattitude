@@ -6,4 +6,4 @@ From Belgium, living in Brussels. Speak french, english and a something that sou
 
 Sponsors :heart:
 
-If you are using my opensource, I'd really appreciate if you would consider sponsoring me. That gives me a tasty morning boost.
+If you are using my opensource, I'd really appreciate if you would consider [sponsoring me](https://github.com/sponsors/belgattitude). That gives me a tasty morning boost.
