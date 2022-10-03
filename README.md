@@ -2,7 +2,9 @@
 
 My name is Sébastien. Strongly typed by nature, I've been coding for a long time. I really enjoy to exchange and discover great things about software programming. I believe in the win-win, the opensource and wish a peace-loving world with a pinch of tech.
 
-I'm from Belgium, living in Brussels. Speak French, English and something that sounds Spanish at times.
+My past stacks includes Java, PHP, a bunch of SQL. Nowadays I've been adbducted by Typescript and NodeJs, cause why not ? It's fun.
+
+I'm from Belgium, living in Brussels. Speak French, English and a frenchized Spanish.
 
 ### Sponsors :heart:
 
