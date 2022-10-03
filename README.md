@@ -1,6 +1,6 @@
 ## Hi there 👋🏼
 
-My name is Sébastien. Strongly typed by nature, I've been coding for a long time. I really enjoy to exchange and discover great things about software programming. I believe in the win-win, the opensource and wish a peace-loving world. Cause that matters too.
+My name is Sébastien. Strongly typed by nature, I've been coding for a long time. I really enjoy to exchange and discover great things about software programming. I believe in the win-win, the opensource and wish a peace-loving world with a pinch of tech.
 
 I'm from Belgium, living in Brussels. Speak French, English and something that sounds Spanish at times.
 
