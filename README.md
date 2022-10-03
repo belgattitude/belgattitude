@@ -2,7 +2,7 @@
 
 My name is Sébastien. Strongly typed by nature, I've been coding for a long time. I really enjoy to exchange and discover great things about software programming. I believe in the win-win and wish a peace-loving world. 
 
-From Belgium, living in Brussels. Speak french, english and a something that sounds spanish.
+From Belgium, living in Brussels. Speak french, english and something that sounds spanish.
 
 ### Sponsors :heart:
 
