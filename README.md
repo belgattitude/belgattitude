@@ -1,10 +1,10 @@
 ## Hi there 👋🏼
 
-My name is Sébastien. Strongly typed by nature, I've been coding for a long time. I really enjoy to exchange and discover great things about software programming. I believe in the win-win, the opensource and wish a peace-loving world with a pinch of tech.
+My name is Sébastien. I've been coding for a long time and really enjoy to exchange and discover great things about software programming. I believe in the win-win, the opensource and wish a peace-loving world with a pinch of tech.
 
-My past stacks includes Java, PHP, a bunch of SQL. Nowadays I've been adbducted by Typescript and NodeJs, cause why not ? It's fun.
+My past stacks includes Java, PHP, a bunch of SQL. Nowadays I've been gently adbducted by NodeJs and Typescript. A refreshing experience.
 
-I'm from Belgium, living in Brussels. Speak French, English and a frenchized Spanish.
+I'm from Belgium, living in Brussels. Speak French, English and a *nascent* Spanish.
 
 ### Sponsors :heart:
 
