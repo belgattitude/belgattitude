@@ -6,7 +6,7 @@ My past stacks includes Java, PHP, a bunch of SQL. Nowadays I've been gently adb
 
 I'm from Belgium, living in Brussels. Speak French, English and a passive Dutch.
 
-## Fun fact
+### Fun fact
 
 I'm a contemporary dancer💃 
 
