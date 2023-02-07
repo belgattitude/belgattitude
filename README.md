@@ -8,7 +8,7 @@ I'm from Belgium, living in Brussels. Speak French, English and a passive Dutch.
 
 ### Fun fact
 
-I'm a contemporary dancer💃 
+I'm a contemporary dancer💃 & choreographer assistant. 
 
 ### Sponsors :heart:
 
