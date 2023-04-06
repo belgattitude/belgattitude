@@ -33,7 +33,11 @@ If my open source software guides or libraries have been useful to you and your 
         <img width="65" src="https://avatars.githubusercontent.com/u/14985020?s=200&v=4" alt="Vercel logo" />    
       </a>
     </td>
-
+    <td>
+      <a href="https://contredanse.org/?ref=belgattitude" target="_blank">
+        <img width="65" src="https://avatars.githubusercontent.com/u/38694280?s=96&v=4" alt="Contredanse logo" />    
+      </a>
+    </td>
   </tr>
   <tr>
     <td align="center">
@@ -45,7 +49,12 @@ If my open source software guides or libraries have been useful to you and your 
     <td align="center">
       <a href="https://vercel.com/?ref=belgattitude" target="_blank">Vercel</a>
     </td>
-   </tr>
+    <td>
+      <a href="https://contredanse.org/?ref=belgattitude" target="_blank">
+        Contredanse
+      </a>
+    </td>
+  </tr>
 </table>
 
 <details>
