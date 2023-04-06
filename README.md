@@ -37,8 +37,8 @@ If my open source software guides or libraries have been useful to you and your 
       <a href="https://www.embie.be/?ref=belgattitude" target="_blank">Embie.be</a>
     </td>
   </tr>
-
 </table>
+
 <details>
   <summary>Github stats</summary>
   
