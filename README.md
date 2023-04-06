@@ -18,22 +18,22 @@ If my open source software guides or libraries have been useful to you and your 
 
 <table>
   <tr>
-    <td>
+    <td align="center">
       <a href="https://www.jetbrains.com/?ref=belgattitude" target="_blank">
          <img width="65" src="https://asset.brandfetch.io/idarKiKkI-/id53SttZhi.jpeg" alt="Jetbrains logo" />
       </a>
     </td>
-    <td>
+    <td align="center">
       <a href="https://www.embie.be/?ref=belgattitude" target="_blank">
         <img width="65" src="https://avatars.githubusercontent.com/u/98402122?s=200&v=4" alt="Jetbrains logo" />    
       </a>
     </td>
-    <td>
+    <td align="center">
       <a href="https://www.vercel.com/?ref=belgattitude" target="_blank">
         <img width="65" src="https://avatars.githubusercontent.com/u/14985020?s=200&v=4" alt="Vercel logo" />    
       </a>
     </td>
-    <td>
+    <td align="center">
       <a href="https://contredanse.org/?ref=belgattitude" target="_blank">
         <img width="65" src="https://avatars.githubusercontent.com/u/38694280?s=96&v=4" alt="Contredanse logo" />    
       </a>
@@ -49,7 +49,7 @@ If my open source software guides or libraries have been useful to you and your 
     <td align="center">
       <a href="https://vercel.com/?ref=belgattitude" target="_blank">Vercel</a>
     </td>
-    <td>
+    <td align="center">
       <a href="https://contredanse.org/?ref=belgattitude" target="_blank">
         Contredanse
       </a>
