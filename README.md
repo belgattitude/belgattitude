@@ -14,6 +14,31 @@ I'm a contemporary dancer and choreographer assistant.
 
 If my open source software guides or libraries have been useful to you and your company, I would be grateful for your support. Whether it's through [sponsorship](https://github.com/sponsors/belgattitude), a [coffee](https://ko-fi.com/belgattitude), or even just a starred repository, any form of recognition would be a tremendous motivation for me to continue my work. Your support will not only bring me a delightful boost but also help me bring my ideas to life :pray:
 
+### Special thanks to
+
+<table>
+  <tr>
+    <td>
+      <a href="https://www.jetbrains.com/?ref=belgattitude" target="_blank">
+         <img width="65" src="https://asset.brandfetch.io/idarKiKkI-/id53SttZhi.jpeg" alt="Jetbrains logo" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.embie.be/?ref=belgattitude" target="_blank">
+        <img width="65" src="https://avatars.githubusercontent.com/u/98402122?s=200&v=4" alt="Jetbrains logo" />    
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.jetbrains.com/?ref=belgattitude" target="_blank">JetBrains</a>
+    </td>
+    <td>
+      <a href="https://www.embie.be/?ref=belgattitude" target="_blank">Embie.be</a>
+    </td>
+  </tr>
+
+</table>
 <details>
   <summary>Github stats</summary>
   
