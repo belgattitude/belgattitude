@@ -10,21 +10,14 @@ I'm from Belgium, living in Brussels. Speak French, English and a passive Dutch.
 
 ## [@httpx/exception](https://github.com/belgattitude/httpx/tree/main/packages/exception#readme)
 
-HTTP response errors with default message, stacktrace, instanceof, error cause support.
-No deps, esm starts at 350b, tops at 1.4kb (esm). Includes convenience typeguards, optional
-error context and a built-in json (de-)serializer to allow usage across browser and
-node environments (SSR, RSC...) or for logging purpose.
+HTTP response errors.
 
-[![npm](https://img.shields.io/npm/v/@httpx/exception?style=for-the-badge&label=Npm&labelColor=444&color=informational)](https://www.npmjs.com/package/@httpx/exception)
-[![codecov](https://img.shields.io/codecov/c/github/belgattitude/httpx?logo=codecov&label=Unit&flag=httpx-exception-unit&style=for-the-badge&labelColor=444)](https://app.codecov.io/gh/belgattitude/httpx/tree/main/packages%2Fexception)
 [![downloads](https://img.shields.io/npm/dm/@httpx/exception?style=for-the-badge&labelColor=444)](https://www.npmjs.com/package/@httpx/exception)
 
 ## [@httpx/dsn-parser](https://github.com/belgattitude/httpx/tree/main/packages/dsn-parser#readme)
 
-DSN & JDBC string parser with query params support in a light and modern package.
+DSN & JDBC string parser with query params support.
 
-[![npm](https://img.shields.io/npm/v/@httpx/dsn-parser?style=for-the-badge&label=Npm&labelColor=444&color=informational)](https://www.npmjs.com/package/@httpx/dsn-parser)
-[![codecov](https://img.shields.io/codecov/c/github/belgattitude/httpx?logo=codecov&label=Unit&flag=httpx-dsn-parser-unit&style=for-the-badge&labelColor=444)](https://app.codecov.io/gh/belgattitude/httpx/tree/main/packages%2Fdsn-parser)
 [![downloads](https://img.shields.io/npm/dm/@httpx/dsn-parser?style=for-the-badge&labelColor=444)](https://www.npmjs.com/package/@httpx/dsn-parser)
 
 
