@@ -4,8 +4,6 @@ My name is Sébastien. I've been coding for a long time and really enjoy to exch
 
 My past stacks includes Java, PHP, a bunch of SQL. Nowadays I've been gently adbducted by NodeJs and Typescript. A refreshing experience.
 
-I'm from Belgium, living in Brussels. Speak French, English and a passive Dutch. 
-
 ### Opensource
 
 <table>
