@@ -2,7 +2,7 @@
 
 My name is Sébastien. I've been coding for a long time and really enjoy to exchange and discover great things about software programming. I believe in the win-win, the opensource and wish a peace-loving world with a pinch of tech.
 
-My past stacks includes Java, PHP, a bunch of SQL. Nowadays I've been gently adbducted by NodeJs and Typescript. A refreshing experience.
+My past stacks includes Java, PHP, a bunch of SQL. Nowadays I've been gently adbducted by NodeJs and Typescript.
 
 ### Opensource
 
