@@ -14,7 +14,7 @@ I'm from Belgium, living in Brussels. Speak French, English and a passive Dutch.
         <a href="https://github.com/belgattitude/httpx/tree/main/packages/exception#readme">@httpx/exception</a>
     </td>
     <td align="left">
-      <img src="https://img.shields.io/npm/dm/@httpx/exception?style=flat&labelColor=444" />
+      <img src="https://img.shields.io/npm/dm/@httpx/exception?style=for-the-badge&labelColor=AEA&color=FFF&label=DL" />
     </td>
     <td align="left">
       Http error status made light and easy.
@@ -25,7 +25,7 @@ I'm from Belgium, living in Brussels. Speak French, English and a passive Dutch.
         <a href="https://github.com/belgattitude/httpx/tree/main/packages/dsn-parser#readme">@httpx/dsn-parser</a>
     </td>
     <td align="left">
-      <img src="https://img.shields.io/npm/dm/@httpx/dsn-parser?style=flat&labelColor=444" />
+      <img src="https://img.shields.io/npm/dm/@httpx/dsn-parser?style=for-the-badge&labelColor=AEA&color=FFF&label=DL" />
     </td>
     <td align="left">
       DSN / JDBC parser 
@@ -36,7 +36,7 @@ I'm from Belgium, living in Brussels. Speak French, English and a passive Dutch.
         <a href="https://github.com/belgattitude/belgattitude/nextjs-monorepo-example">nextjs-monorepo-example</a>
     </td>
     <td align="left">
-      <img src="https://img.shields.io/github/stars/belgattitude/nextjs-monorepo-example?style=flat">
+      <img src="https://img.shields.io/github/stars/belgattitude/nextjs-monorepo-example?style=for-the-badge&labelColor=AEA&color=FFF">
     </td>
     <td align="left">
       Monorepo collection of tips and tricks
