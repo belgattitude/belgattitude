@@ -4,21 +4,46 @@ My name is Sébastien. I've been coding for a long time and really enjoy to exch
 
 My past stacks includes Java, PHP, a bunch of SQL. Nowadays I've been gently adbducted by NodeJs and Typescript. A refreshing experience.
 
-I'm from Belgium, living in Brussels. Speak French, English and a passive Dutch.
+I'm from Belgium, living in Brussels. Speak French, English and a passive Dutch. 
 
 ### Opensource
 
-## [@httpx/exception](https://github.com/belgattitude/httpx/tree/main/packages/exception#readme)
+<table>
+  <tr>
+    <td align="left">
+        <a href="https://github.com/belgattitude/httpx/tree/main/packages/exception#readme">@httpx/exception</a>
+    </td>
+    <td align="left">
+      <img src="https://img.shields.io/npm/dm/@httpx/exception?style=flat&labelColor=444" />
+    </td>
+    <td align="left">
+      Http error status made light and easy.
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+        <a href="https://github.com/belgattitude/httpx/tree/main/packages/dsn-parser#readme">@httpx/dsn-parser</a>
+    </td>
+    <td align="left">
+      <img src="https://img.shields.io/npm/dm/@httpx/dsn-parser?style=flat&labelColor=444" />
+    </td>
+    <td align="left">
+      DSN / JDBC parser 
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+        <a href="https://github.com/belgattitude/belgattitude/nextjs-monorepo-example">nextjs-monorepo-example</a>
+    </td>
+    <td align="left">
+      <img src="https://img.shields.io/github/stars/belgattitude/nextjs-monorepo-example?style=flat">
+    </td>
+    <td align="left">
+      Monorepo collection of tips and tricks
+    </td>
+  </tr>
 
-HTTP response errors.
-
-[![downloads](https://img.shields.io/npm/dm/@httpx/exception?style=for-the-badge&labelColor=444)](https://www.npmjs.com/package/@httpx/exception)
-
-## [@httpx/dsn-parser](https://github.com/belgattitude/httpx/tree/main/packages/dsn-parser#readme)
-
-DSN & JDBC string parser with query params support.
-
-[![downloads](https://img.shields.io/npm/dm/@httpx/dsn-parser?style=for-the-badge&labelColor=444)](https://www.npmjs.com/package/@httpx/dsn-parser)
+</table>
 
 
 ### Fun fact
