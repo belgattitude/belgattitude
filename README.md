@@ -36,7 +36,7 @@ If my open source software guides or libraries have been useful to you and your 
   </tr>
   <tr>
     <td align="left">
-        <a href="https://github.com/belgattitude/belgattitude/nextjs-monorepo-example">nextjs-monorepo-example</a>
+        <a href="https://github.com/belgattitude/nextjs-monorepo-example">nextjs-monorepo-example</a>
     </td>
     <td align="left">
       <img src="https://img.shields.io/github/stars/belgattitude/nextjs-monorepo-example?style=for-the-badge&labelColor=AEA&color=FFF">
