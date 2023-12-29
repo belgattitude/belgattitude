@@ -20,7 +20,7 @@ If my open source software guides or libraries have been useful to you and your 
       <img src="https://img.shields.io/npm/dm/@httpx/assert?style=for-the-badge&labelColor=AEA&color=FFF&label=DL" />
     </td>
     <td align="left">
-      Typeguards and assertions with error messages that tree-shakes and work with on the edge.
+      Treeshakable typeguards and assertions with indicative errors.
     </td>
   </tr>
   <tr>
