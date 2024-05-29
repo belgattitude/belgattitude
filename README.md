@@ -45,6 +45,18 @@ If my open source software guides or libraries have been useful to you and your 
       DSN / JDBC parser 
     </td>
   </tr>
+    <tr>
+    <td align="left">
+        <a href="https://github.com/belgattitude/httpx/tree/main/packages/memo-intl#readme">@httpx/memo-intl</a>
+    </td>
+    <td align="left">
+      <img src="https://img.shields.io/npm/dm/@httpx/memo-intl?style=for-the-badge&labelColor=AEA&color=FFF&label=DL" />
+    </td>
+    <td align="left">
+      Intl constructors memoizer (lru based) 
+    </td>
+  </tr>
+
   <tr>
     <td align="left">
         <a href="https://github.com/belgattitude/nextjs-monorepo-example">nextjs-monorepo-example</a>
