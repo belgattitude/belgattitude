@@ -56,8 +56,7 @@ If my open source software guides or libraries have been useful to you and your 
       isPlainObject fast and lightweight
     </td>
   </tr>
-
-    <tr>
+  <tr>
     <td align="left">
         <a href="https://github.com/belgattitude/httpx/tree/main/packages/memo-intl#readme">@httpx/memo-intl</a>
     </td>
