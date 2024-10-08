@@ -53,7 +53,7 @@ If my open source software guides or libraries have been useful to you and your 
       <img src="https://img.shields.io/npm/dm/@httpx/plain-object?style=for-the-badge&labelColor=AEA&color=FFF&label=DL" />
     </td>
     <td align="left">
-      isPlainObject fast and lightweight
+      Fast, light and compliant isPlainObject
     </td>
   </tr>
   <tr>
