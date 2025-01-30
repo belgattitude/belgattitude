@@ -11,7 +11,7 @@ My past stacks includes Java, PHP, a bunch of SQL. Nowadays I've been gently adb
 
 ### Opensource
 
-> A lits of current projects related to nodejs / typescript. You'll find previous work in other stack in my history.
+> A lits of current projects related to nodejs / typescript. You'll find previous works in my history (ie: [soluble-japha](https://github.com/belgattitude/soluble-japha)...)
 
 #### Collection of utils
 
