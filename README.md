@@ -58,6 +58,17 @@ If my open source software guides or libraries have been useful to you and your 
   </tr>
   <tr>
     <td align="left">
+        <a href="https://github.com/belgattitude/httpx/tree/main/packages/lru#readme">@httpx/memo-intl</a>
+    </td>
+    <td align="left">
+      <img src="https://img.shields.io/npm/dm/@httpx/lru?style=for-the-badge&labelColor=AEA&color=FFF&label=DL" />
+    </td>
+    <td align="left">
+      Double linked-list based LRU cache
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
         <a href="https://github.com/belgattitude/httpx/tree/main/packages/memo-intl#readme">@httpx/memo-intl</a>
     </td>
     <td align="left">
