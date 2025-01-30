@@ -142,7 +142,7 @@ Currently developing bricks for sql based analytics (duckdb...) under the [@flow
       Monorepo collection of tips and tricks
     </td>
   </tr>
-    <tr>
+  <tr>
     <td align="left">
         <a href="https://github.com/belgattitude/workshop-node-sql-server">workshop-node-sql-server</a>
     </td>
@@ -153,6 +153,18 @@ Currently developing bricks for sql based analytics (duckdb...) under the [@flow
       Worshop monorepo for nextjs / hono / kysely / prisma / mssql / nx training.
     </td>
   </tr>
+   <tr>
+    <td align="left">
+        <a href="https://github.com/belgattitude/compare-package-managers">compare-package-managers</a>
+    </td>
+    <td align="left">
+      <img src="https://img.shields.io/github/stars/belgattitude/compare-package-managers?style=for-the-badge&labelColor=AEA&color=FFF">
+    </td>
+    <td align="left">
+      Comparing package managers differences (yarn, pnpm...)
+    </td>
+  </tr>
+
 
 </table>
 
