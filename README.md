@@ -11,7 +11,7 @@ My past stacks includes Java, PHP, a bunch of SQL. Nowadays I've been gently adb
 
 ### Opensource
 
-Collection of utils that I sometimes need:
+#### Collection of utils
  
 <table>
   <tr>
@@ -93,7 +93,37 @@ Collection of utils that I sometimes need:
   </tr>
 </table>
 
-### Examples
+#### Upcoming projects
+
+Currently developing bricks for sql based analytics (duckdb...) under the [flowblade repo](https://github.com/belgattitude/flowblade)
+
+<table>
+  <tr>
+    <td align="left">
+        <a href="https://github.com/belgattitude/flowblade/tree/main/packages/sql-tag#readme">@flowblade/sql-tag</a>
+    </td>
+    <td align="left">
+      <img src="https://img.shields.io/npm/dm/@flowblade/sql-tag?style=for-the-badge&labelColor=AEA&color=FFF&label=DL" />
+    </td>
+    <td align="left">
+      Universal fast sql template literal.
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+        <a href="https://github.com/belgattitude/flowblade/tree/main/packages/source-duckdb#readme">@httpx/exception</a>
+    </td>
+    <td align="left">
+      <img src="https://img.shields.io/npm/dm/@flowblade/source-duckdb?style=for-the-badge&labelColor=AEA&color=FFF&label=DL" />
+    </td>
+    <td align="left">
+      DuckDb datasource base on duckdb-neo
+    </td>
+  </tr>
+</table>
+
+
+#### Examples
 
 <table>
   <tr>
@@ -112,7 +142,7 @@ Collection of utils that I sometimes need:
         <a href="https://github.com/belgattitude/workshop-node-sql-server">workshop mssql</a>
     </td>
     <td align="left">
-      <img src="https://img.shields.io/github/stars/belgattitude/workshop-node-sql-serve?style=for-the-badge&labelColor=AEA&color=FFF">
+      <img src="https://img.shields.io/github/stars/belgattitude/workshop-node-sql-server?style=for-the-badge&labelColor=AEA&color=FFF">
     </td>
     <td align="left">
       Worshop monorepo for nextjs / hono / kysely / mssql / nx training.
