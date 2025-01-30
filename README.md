@@ -111,7 +111,7 @@ Currently developing bricks for sql based analytics (duckdb...) under the [flowb
   </tr>
   <tr>
     <td align="left">
-        <a href="https://github.com/belgattitude/flowblade/tree/main/packages/source-duckdb#readme">@httpx/exception</a>
+        <a href="https://github.com/belgattitude/flowblade/tree/main/packages/source-duckdb#readme">@flowblade/source-duckdb</a>
     </td>
     <td align="left">
       <img src="https://img.shields.io/npm/dm/@flowblade/source-duckdb?style=for-the-badge&labelColor=AEA&color=FFF&label=DL" />
