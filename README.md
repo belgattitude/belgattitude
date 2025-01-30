@@ -137,8 +137,6 @@ If my open source software guides or libraries have been useful to you and your 
   </tr>
 </table>
 
-<details>
-  <summary>Github stats</summary>
-  
+## Github stats  
+
 ![](https://github-readme-stats-one-bice.vercel.app/api?username=belgattitude&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
-</details>
