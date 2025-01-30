@@ -78,7 +78,17 @@ My past stacks includes Java, PHP, a bunch of SQL. Nowadays I've been gently adb
       Intl constructors memoizer (lru based) 
     </td>
   </tr>
-
+  <tr>
+    <td align="left">
+        <a href="https://github.com/belgattitude/httpx/tree/main/packages/treeu#readme">@httpx/treeu</a>
+    </td>
+    <td align="left">
+      <img src="https://img.shields.io/npm/dm/@httpx/treeu?style=for-the-badge&labelColor=AEA&color=FFF&label=DL" />
+    </td>
+    <td align="left">
+      Tree utilities with helpers (depth first search...)
+    </td>
+  </tr>
   <tr>
     <td align="left">
         <a href="https://github.com/belgattitude/nextjs-monorepo-example">nextjs-monorepo-example</a>
