@@ -58,7 +58,7 @@ If my open source software guides or libraries have been useful to you and your 
   </tr>
   <tr>
     <td align="left">
-        <a href="https://github.com/belgattitude/httpx/tree/main/packages/lru#readme">@httpx/memo-intl</a>
+        <a href="https://github.com/belgattitude/httpx/tree/main/packages/lru#readme">@httpx/lru</a>
     </td>
     <td align="left">
       <img src="https://img.shields.io/npm/dm/@httpx/lru?style=for-the-badge&labelColor=AEA&color=FFF&label=DL" />
