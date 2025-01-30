@@ -155,7 +155,12 @@ Currently developing bricks for sql based analytics (duckdb...) under the [@flow
 </table>
 
 
-### Special thanks to
+## Github stats  
+
+![](https://github-readme-stats-one-bice.vercel.app/api?username=belgattitude&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
+
+
+## Special thanks to
 
 <table>
   <tr>
@@ -197,7 +202,3 @@ Currently developing bricks for sql based analytics (duckdb...) under the [@flow
     </td>
   </tr>
 </table>
-
-## Github stats  
-
-![](https://github-readme-stats-one-bice.vercel.app/api?username=belgattitude&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
