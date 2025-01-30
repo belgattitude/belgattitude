@@ -142,13 +142,13 @@ Currently developing bricks for sql based analytics (duckdb...) under the [@flow
   </tr>
     <tr>
     <td align="left">
-        <a href="https://github.com/belgattitude/workshop-node-sql-server">workshop mssql</a>
+        <a href="https://github.com/belgattitude/workshop-node-sql-server">workshop-node-sql-server</a>
     </td>
     <td align="left">
       <img src="https://img.shields.io/github/stars/belgattitude/workshop-node-sql-server?style=for-the-badge&labelColor=AEA&color=FFF">
     </td>
     <td align="left">
-      Worshop monorepo for nextjs / hono / kysely / mssql / nx training.
+      Worshop monorepo for nextjs / hono / kysely / prisma / mssql / nx training.
     </td>
   </tr>
 
