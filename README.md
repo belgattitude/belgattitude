@@ -64,7 +64,7 @@ My past stacks includes Java, PHP, a bunch of SQL. Nowadays I've been gently adb
       <img src="https://img.shields.io/npm/dm/@httpx/lru?style=for-the-badge&labelColor=AEA&color=FFF&label=DL" />
     </td>
     <td align="left">
-      Double linked-list based LRU cache
+      Double linked-list based LRU cache in O(1)
     </td>
   </tr>
   <tr>
