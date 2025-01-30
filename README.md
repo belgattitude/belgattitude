@@ -12,6 +12,9 @@ My past stacks includes Java, PHP, a bunch of SQL. Nowadays I've been gently adb
 ### Opensource
 
 #### Collection of utils
+
+From time to time I develop few utils in the [@httpx repo](https://github.com/belgattitude/httpx), be sure to take a look
+and contribute. Not a lot but good stuff !
  
 <table>
   <tr>
