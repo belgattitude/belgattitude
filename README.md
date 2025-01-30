@@ -98,7 +98,7 @@ and contribute. Not a lot but good stuff !
 
 #### Upcoming projects
 
-Currently developing bricks for sql based analytics (duckdb...) under the [flowblade repo](https://github.com/belgattitude/flowblade)
+Currently developing bricks for sql based analytics (duckdb...) under the [@flowblade repo](https://github.com/belgattitude/flowblade)
 
 <table>
   <tr>
