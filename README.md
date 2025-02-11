@@ -98,7 +98,7 @@ and contribute. Not a lot but good stuff !
   </tr>
    <tr>
     <td align="left">
-        <a href="https://github.com/belgattitude/httpx/tree/main/packages/stable-hash#readme">@httpx/treeu</a>
+        <a href="https://github.com/belgattitude/httpx/tree/main/packages/stable-hash#readme">@httpx/stable-hash</a>
     </td>
     <td align="left">
       <img src="https://img.shields.io/npm/dm/@httpx/stable-hash?style=for-the-badge&labelColor=AEA&color=FFF&label=DL" />
