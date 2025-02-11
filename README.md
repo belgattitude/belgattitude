@@ -96,6 +96,17 @@ and contribute. Not a lot but good stuff !
       Tree utilities with helpers (depth first search...)
     </td>
   </tr>
+   <tr>
+    <td align="left">
+        <a href="https://github.com/belgattitude/httpx/tree/main/packages/stable-hash#readme">@httpx/treeu</a>
+    </td>
+    <td align="left">
+      <img src="https://img.shields.io/npm/dm/@httpx/stable-hash?style=for-the-badge&labelColor=AEA&color=FFF&label=DL" />
+    </td>
+    <td align="left">
+      Create keys or hashes from javascript values, useful for memoization or cache key generation.
+    </td>
+  </tr>
 </table>
 
 #### Upcoming projects
